@@ -4,3 +4,6 @@
 [submodule "wenda"]
 	path = wenda
 	url = https://github.com/wenda-LLM/wenda.git
+[submodule "WebUI"]
+	path = WebUI
+	url = https://github.com/cgisky1980/WebUI.git
