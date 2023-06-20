@@ -1,3 +1,6 @@
 [submodule "rwkv.cpp"]
 	path = rwkv.cpp
 	url = https://github.com/saharNooby/rwkv.cpp.git
+[submodule "wenda"]
+	path = wenda
+	url = https://github.com/wenda-LLM/wenda.git
